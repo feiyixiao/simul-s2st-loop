@@ -1,0 +1,7 @@
+openai-whisper
+transformers
+sentencepiece
+torch
+sacrebleu==2.4.3
+soundfile
+numpy
